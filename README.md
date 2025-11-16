@@ -35,6 +35,17 @@ Proyecto Java que permite consultar tasas de cambio entre monedas latinoamerican
 
 📌 Sección recomendada: Demostración
 Adjunto capturas de la ejecucion y funcionamiento del conversor de monedas
+https://github.com/Y0RLGRJALES/ConversorDeMonedas/blob/main/ConversorDeMonedas/img/1%20inicio.png
+https://github.com/Y0RLGRJALES/ConversorDeMonedas/blob/main/ConversorDeMonedas/img/2%20consulta.png
+https://github.com/Y0RLGRJALES/ConversorDeMonedas/blob/main/ConversorDeMonedas/img/3%20consulta.png
+https://github.com/Y0RLGRJALES/ConversorDeMonedas/blob/main/ConversorDeMonedas/img/4%20consulta.png
+https://github.com/Y0RLGRJALES/ConversorDeMonedas/blob/main/ConversorDeMonedas/img/6%20inicio%20y%20consulta.png
+https://github.com/Y0RLGRJALES/ConversorDeMonedas/blob/main/ConversorDeMonedas/img/7%20consulta.png
+https://github.com/Y0RLGRJALES/ConversorDeMonedas/blob/main/ConversorDeMonedas/img/8%20consulta.png
+https://github.com/Y0RLGRJALES/ConversorDeMonedas/blob/main/ConversorDeMonedas/img/9%20exit.png
+https://github.com/Y0RLGRJALES/ConversorDeMonedas/blob/main/ConversorDeMonedas/img/10%20Excepciones.png
+https://github.com/Y0RLGRJALES/ConversorDeMonedas/blob/main/ConversorDeMonedas/img/11%20manejo%20de%20excepciones.png
+
 
 
 🔐 Clave de API
