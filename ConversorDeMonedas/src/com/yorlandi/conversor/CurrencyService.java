@@ -8,7 +8,7 @@ import java.net.http.HttpResponse;
 
 public class CurrencyService {
 
-    private static final String API_KEY = "2537f81061cffc34e4a09a31";
+    private static final String API_KEY = "xxxxxxxxxxxxxxx";
 
     public String getConversionJson(String base, String target) {
         String url = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/pair/" + base + "/" + target;
@@ -50,3 +50,4 @@ public class CurrencyService {
     }
 
 }
+
